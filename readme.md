@@ -1,0 +1,3 @@
+# Tärkeäää
+
+harjoittele ensin komentorivillä
