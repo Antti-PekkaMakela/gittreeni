@@ -1,4 +1,4 @@
-# GITTREENI
+# GITTREENII, kunnossa, voi poistaa //jakke
 ---
 ## Yleistä
 ---
